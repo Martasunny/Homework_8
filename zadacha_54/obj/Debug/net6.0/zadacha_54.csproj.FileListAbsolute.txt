@@ -1,0 +1,15 @@
+D:\Users\User\Desktop\домашняя работа к семинару 8\zadacha_54\obj\Debug\net6.0\zadacha_54.csproj.AssemblyReference.cache
+D:\Users\User\Desktop\домашняя работа к семинару 8\zadacha_54\obj\Debug\net6.0\zadacha_54.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\User\Desktop\домашняя работа к семинару 8\zadacha_54\obj\Debug\net6.0\zadacha_54.AssemblyInfoInputs.cache
+D:\Users\User\Desktop\домашняя работа к семинару 8\zadacha_54\obj\Debug\net6.0\zadacha_54.AssemblyInfo.cs
+D:\Users\User\Desktop\домашняя работа к семинару 8\zadacha_54\obj\Debug\net6.0\zadacha_54.csproj.CoreCompileInputs.cache
+D:\Users\User\Desktop\домашняя работа к семинару 8\zadacha_54\bin\Debug\net6.0\zadacha_54.exe
+D:\Users\User\Desktop\домашняя работа к семинару 8\zadacha_54\bin\Debug\net6.0\zadacha_54.deps.json
+D:\Users\User\Desktop\домашняя работа к семинару 8\zadacha_54\bin\Debug\net6.0\zadacha_54.runtimeconfig.json
+D:\Users\User\Desktop\домашняя работа к семинару 8\zadacha_54\bin\Debug\net6.0\zadacha_54.dll
+D:\Users\User\Desktop\домашняя работа к семинару 8\zadacha_54\bin\Debug\net6.0\zadacha_54.pdb
+D:\Users\User\Desktop\домашняя работа к семинару 8\zadacha_54\obj\Debug\net6.0\zadacha_54.dll
+D:\Users\User\Desktop\домашняя работа к семинару 8\zadacha_54\obj\Debug\net6.0\refint\zadacha_54.dll
+D:\Users\User\Desktop\домашняя работа к семинару 8\zadacha_54\obj\Debug\net6.0\zadacha_54.pdb
+D:\Users\User\Desktop\домашняя работа к семинару 8\zadacha_54\obj\Debug\net6.0\zadacha_54.genruntimeconfig.cache
+D:\Users\User\Desktop\домашняя работа к семинару 8\zadacha_54\obj\Debug\net6.0\ref\zadacha_54.dll
